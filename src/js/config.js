@@ -7,6 +7,6 @@ export const OPTIONS = {
   headers: {
     accept: 'application/json',
     Authorization:
-      'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlYmYwMzgyMTg2MGYzNjg5ZmUxOWI3NDA1MjJiMWJjNSIsInN1YiI6IjY2MDViMzc2Y2QyZjBmMDE3ZDk0MGRmMSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.R70kmSlquspKr0SMdW-oyp6HFeArCRst9hN3HYpSoRE',
+      'Bearer ',
   },
 };
